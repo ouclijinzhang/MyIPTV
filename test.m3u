@@ -1,15 +1,22 @@
-#EXTINF:-1 JapanHdv
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1 tvg-name="JapanHdv" tvg-id="27" tvg-logo="https://tb.zbds.top/logo/CCTV1.png" group-title="央视频道", JapanHdv
 http://d029dcec.kazmazpaz.ru/iptv/AE8BY6FHF5ZGAG/6225/manifest.m3u8
-#EXTINF:-1 JapanHdv
+#EXTINF:-1 tvg-name="JapanHdv" tvg-id="27" tvg-logo="https://tb.zbds.top/logo/CCTV1.png" group-title="央视频道", JapanHdv
+http://88b9da48.kazmazpaz.ru:80/iptv/D6F3GPB9FFSHNY/6225/manifest.m3u8
+#EXTINF:-1 tvg-name="JapanHdv" tvg-id="17" tvg-logo="https://tb.zbds.top/logo/CCTV2.png" group-title="央视频道", JapanHdv
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6225/index.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-id="16" tvg-logo="https://tb.zbds.top/logo/CCTV3.png" group-title="央视频道", CCTV3
-http://123.129.70.178:9901/tsfile/live/0003_1.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-id="22" tvg-logo="https://tb.zbds.top/logo/CCTV4.png" group-title="央视频道", CCTV4
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-id="27" tvg-logo="https://tb.zbds.top/logo/CCTV5.png" group-title="央视频道", CCTV5
-http://112.46.85.60:8009/hls/503/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-id="CCTV5+" tvg-logo="https://tb.zbds.top/logo/CCTV5+.png" group-title="央视频道", CCTV5+
-http://112.27.235.94:8000/hls/6/index.m3u8
+#EXTINF:-1 tvg-name="JapanHdv" tvg-id="17" tvg-logo="https://tb.zbds.top/logo/CCTV2.png" group-title="央视频道", JapanHdv
+http://d029dcec.kazmazpaz.ru/iptv/DVHP2VB5QXL7UC/6225/manifest.m3u8
+#EXTINF:-1 tvg-name="JapanHdv" tvg-id="16" tvg-logo="https://tb.zbds.top/logo/CCTV3.png" group-title="央视频道", JapanHdv
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/N38U657879GPVVDFAYZ26AX5/6225/index.m3u8
+#EXTINF:-1 tvg-name="JapanHdv" tvg-id="16" tvg-logo="https://tb.zbds.top/logo/CCTV3.png" group-title="央视频道", JapanHdv
+http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6225/manifest.m3u8
+#EXTINF:-1 tvg-name="JapanHdv" tvg-id="22" tvg-logo="https://tb.zbds.top/logo/CCTV4.png" group-title="央视频道", JapanHdv
+http://d029dcec.kazmazpaz.ru/iptv/RL8MVW8UX8NNXK/6225/manifest.m3u8
+#EXTINF:-1 tvg-name="JapanHdv" tvg-id="27" tvg-logo="https://tb.zbds.top/logo/CCTV5.png" group-title="央视频道", JapanHdv
+http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6225/manifest.m3u8
+#EXTINF:-1 tvg-name="JapanHdv" tvg-id="CCTV5+" tvg-logo="https://tb.zbds.top/logo/CCTV5+.png" group-title="央视频道", JapanHdv
+http://d029dcec.kazmazpaz.ru/iptv/ZLSY2ZMNQ5CQ87V9TWZNKU5L/6225/manifest.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-id="CCTV6" tvg-logo="https://tb.zbds.top/logo/CCTV6.png" group-title="央视频道", CCTV6
 http://112.27.235.94:8000/hls/7/index.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视频道", CCTV7
